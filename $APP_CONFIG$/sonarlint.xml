@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://139.224.22.150:5899/" />
+          <option name="name" value="efast" />
+          <option name="login" value="tao.wang@efastserv.com" />
+          <password>dfdddfcbdfc4dfcddfdedfcbdfc5</password>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
