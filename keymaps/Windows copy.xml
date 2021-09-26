@@ -1,0 +1,11 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="EditorCreateRectangularSelectionOnMouseDrag">
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt f8" />
+  </action>
+  <action id="sql.SelectInDatabaseView">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+</keymap>
