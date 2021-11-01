@@ -1,0 +1,12 @@
+<templateSet group="Java">
+  <template name="idoc" value="/**&#10; * {@inheritDoc}&#10; */" description="inheritDoc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="gas" value="@lombok.Getter&#10;@lombok.Setter" description="@Getter and @Setter" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
